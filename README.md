@@ -110,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ambuj1211/LeetCodePractice/tree/master/0002-add-two-numbers) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ambuj1211/LeetCodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ambuj1211/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ambuj1211/LeetCodePractice/tree/master/0012-integer-to-roman) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ambuj1211/LeetCodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ambuj1211/LeetCodePractice/tree/master/0796-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ambuj1211/LeetCodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
