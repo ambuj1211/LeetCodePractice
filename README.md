@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ambuj1211/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ambuj1211/LeetCodePractice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ambuj1211/LeetCodePractice/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ambuj1211/LeetCodePractice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ambuj1211/LeetCodePractice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
