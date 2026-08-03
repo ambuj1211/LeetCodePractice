@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ambuj1211/LeetCodePractice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambuj1211/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/ambuj1211/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
+| [1829-maximum-xor-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/1829-maximum-xor-for-each-query) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ambuj1211/LeetCodePractice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ambuj1211/LeetCodePractice/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ambuj1211/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
+| [1829-maximum-xor-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/1829-maximum-xor-for-each-query) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ambuj1211/LeetCodePractice/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3133-minimum-array-end](https://github.com/ambuj1211/LeetCodePractice/tree/master/3133-minimum-array-end) |
 ## Pigeonhole Principle
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ambuj1211/LeetCodePractice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Prefix Sum
+|  |
+| ------- |
+| [1829-maximum-xor-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/1829-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
