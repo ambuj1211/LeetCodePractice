@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ambuj1211/LeetCodePractice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambuj1211/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/ambuj1211/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ambuj1211/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ambuj1211/LeetCodePractice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ambuj1211/LeetCodePractice/tree/master/0088-merge-sorted-array) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Quicksort
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ambuj1211/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Bit Manipulation
 |  |
 | ------- |
