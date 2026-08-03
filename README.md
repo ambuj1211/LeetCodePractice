@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ambuj1211/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ambuj1211/LeetCodePractice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3163-string-compression-iii](https://github.com/ambuj1211/LeetCodePractice/tree/master/3163-string-compression-iii) |
 ## Sliding Window
 |  |
 | ------- |
