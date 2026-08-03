@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ambuj1211/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ambuj1211/LeetCodePractice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ambuj1211/LeetCodePractice/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ambuj1211/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ambuj1211/LeetCodePractice/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ambuj1211/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ambuj1211/LeetCodePractice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ambuj1211/LeetCodePractice/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Linked List
 |  |
 | ------- |
