@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/1829-maximum-xor-for-each-query) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ambuj1211/LeetCodePractice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2326-spiral-matrix-iv](https://github.com/ambuj1211/LeetCodePractice/tree/master/2326-spiral-matrix-iv) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ambuj1211/LeetCodePractice/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ambuj1211/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
+| [2326-spiral-matrix-iv](https://github.com/ambuj1211/LeetCodePractice/tree/master/2326-spiral-matrix-iv) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ambuj1211/LeetCodePractice/tree/master/0002-add-two-numbers) |
+| [2326-spiral-matrix-iv](https://github.com/ambuj1211/LeetCodePractice/tree/master/2326-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ambuj1211/LeetCodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ambuj1211/LeetCodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/ambuj1211/LeetCodePractice/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
