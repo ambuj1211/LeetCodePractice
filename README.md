@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambuj1211/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/ambuj1211/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ambuj1211/LeetCodePractice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ambuj1211/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ambuj1211/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ambuj1211/LeetCodePractice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ambuj1211/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ambuj1211/LeetCodePractice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Linked List
 |  |
 | ------- |
