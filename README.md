@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ambuj1211/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [1829-maximum-xor-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/1829-maximum-xor-for-each-query) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/ambuj1211/LeetCodePractice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ambuj1211/LeetCodePractice/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3133-minimum-array-end](https://github.com/ambuj1211/LeetCodePractice/tree/master/3133-minimum-array-end) |
 ## Pigeonhole Principle
