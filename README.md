@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ambuj1211/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ambuj1211/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/ambuj1211/LeetCodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ambuj1211/LeetCodePractice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ambuj1211/LeetCodePractice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ambuj1211/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ambuj1211/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0796-rotate-string](https://github.com/ambuj1211/LeetCodePractice/tree/master/0796-rotate-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ambuj1211/LeetCodePractice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2490-circular-sentence](https://github.com/ambuj1211/LeetCodePractice/tree/master/2490-circular-sentence) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ambuj1211/LeetCodePractice/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/ambuj1211/LeetCodePractice/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
