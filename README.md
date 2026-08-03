@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ambuj1211/LeetCodePractice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2326-spiral-matrix-iv](https://github.com/ambuj1211/LeetCodePractice/tree/master/2326-spiral-matrix-iv) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ambuj1211/LeetCodePractice/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ambuj1211/LeetCodePractice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ambuj1211/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ambuj1211/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ambuj1211/LeetCodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ambuj1211/LeetCodePractice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -152,4 +154,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2326-spiral-matrix-iv](https://github.com/ambuj1211/LeetCodePractice/tree/master/2326-spiral-matrix-iv) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ambuj1211/LeetCodePractice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ambuj1211/LeetCodePractice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
