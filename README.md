@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambuj1211/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/ambuj1211/LeetCodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ambuj1211/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/ambuj1211/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ambuj1211/LeetCodePractice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1829-maximum-xor-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/1829-maximum-xor-for-each-query) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ambuj1211/LeetCodePractice/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ambuj1211/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ambuj1211/LeetCodePractice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambuj1211/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/ambuj1211/LeetCodePractice/tree/master/0746-min-cost-climbing-stairs) |
 ## Bubble Sort
 |  |
 | ------- |
